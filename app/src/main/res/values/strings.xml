@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Harmonic Canvas</string>
+    <string name="title_canvas">Harmonic Canvas</string>
+    <string name="desc_tap_to_spawn">Tap anywhere on the canvas to spawn resonating nodes</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_presets">Presets</string>
+    <string name="action_save">Save</string>
+    <string name="action_load">Load</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="sound_mode_crystal">Crystal Chime</string>
+    <string name="sound_mode_zen">Zen Bell</string>
+    <string name="sound_mode_synth">Cyber Pluck</string>
+    <string name="sound_mode_sine">Pure Sine</string>
+    <string name="scale_pentatonic">Pentatonic</string>
+    <string name="scale_hirajoshi">Hirajoshi</string>
+    <string name="scale_solfeggio">Solfeggio 528Hz</string>
+    <string name="scale_celestial">Celestial Lydian</string>
+    <string name="scale_aeolian">Cyber Minor</string>
+</resources>
